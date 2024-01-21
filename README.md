@@ -1,1 +1,1 @@
-# Password-generator
+You can customize the parameters of the generated password, such as length, use of special characters. Detailed information about the available parameters is in the script itself. The script has been converted into an EXE file, so you don't need to bother downloading Rider
